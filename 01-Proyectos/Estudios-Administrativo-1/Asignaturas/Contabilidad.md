@@ -57,4 +57,10 @@ En Google Calendar: cada día de 17:30 a 18:30 (el simulacro, de 17:30 a 19:30),
 | **Jue 12/11** | **EXAMEN** |
 
 ## Apuntes y dudas
--
+### Errores del paso 1 (28/10)
+- Total del pasivo mal sumado: puse 58.000 € y es 49.000 € (9.000 + 35.000 + 5.000). Por eso el capital salió 122.000 € en vez de **131.000 €**. Repasar siempre la suma del pasivo.
+- Impresoras: 3 × 300 = **900 €**, no 600 €. Faltaban los **2 equipos de red** (2 × 300 = 600 €). El total de EPI (6.000 €) estaba bien.
+- Caja: faltaba el total (800 + 1.000 + 100 + 100 = **2.000 €**). Las monedas van en el importe parcial.
+- La deuda de 5.000 € por el equipo no es "Acreedores": es **Proveedores de inmovilizado a c/p (523)**.
+- El préstamo: usar el nombre **Deudas a l/p con entidades de crédito (170)**.
+- Separar los títulos **Bienes / Derechos / Obligaciones** en el inventario.
